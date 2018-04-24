@@ -1,0 +1,11 @@
+{
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "newUntitledFile",
+    // phpcs settings
+    "phpcs.standard": "PSR2",
+    "editor.fontFamily": "Consolas",
+    "editor.fontSize": 12,
+
+}
