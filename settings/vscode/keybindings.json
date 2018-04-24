@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key" : "ctrl+;", "command" : "cursorEnd", "when":"editorTextFocus"
+    },
+    {
+        "key" : "ctrl+`", "command" : "workbench.action.terminal.terminalFocus", "when" : "editorTextFocus"
+    },
+    {
+        "key" : "ctrl+`", "command" : "workbench.action.terminal.toggleTerminal", "when" : "editorTextFocus"
+    },
+    {
+        "key" : "ctrl+n", "command" : "explorer.newFile", "when" : "explorerViewletFocus" 
+    }
+]
